@@ -28,3 +28,9 @@ Pub/Sub API: pubsub.googleapis.com
 Secret Manager API: secretmanager.googleapis.com
 EventArc API: eventarc.googleapis.com
 The Project Factory module can be used to provision a project with the necessary APIs enabled.
+
+
+
+terraform init
+terraform plan
+terraform apply
